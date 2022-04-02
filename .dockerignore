@@ -1,0 +1,11 @@
+# compiled output
+client/node_modules
+server/node_modules
+
+# IDE - VSCode
+.vscode/*
+client/.vscode/*
+server/.vscode/*
+
+# Tests
+server/test
